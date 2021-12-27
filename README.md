@@ -35,7 +35,7 @@ This notebook is supplementary to the primary notebook. It explores additional r
 Contains CSV file provided for this analysis.  
 
 **whale_navs.csv**  
-Daily closing prices for:  
+Daily closing prices from 2014-10-01 to 2020-09-11 for:  
  - Soros Fund Management LLC  
  - Paulson & Co. Inc.  
  - Tiger Global Management LLC  
